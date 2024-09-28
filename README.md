@@ -13,7 +13,9 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 - Step 7 : Formatting of the visuals supports quicker data analysis. It aids in spotting patterns and understanding trends in the data at a much faster rate.
  
 # Sample Report Links (For REFERENCE)
-(https://github.com/user-attachments/assets/48a7081d-ede2-4be3-8993-a3f18e31bc48)
+https://github.com/user-attachments/assets/a5aadf7f-5f8a-4cef-8f58-4fdf46692552
+https://github.com/user-attachments/assets/f00ab9cf-7109-4b42-8c13-002a2b1e5201
+https://github.com/user-attachments/assets/19fc4075-8063-42d0-965e-95a7a9e69b67
 
 
 # Insights
